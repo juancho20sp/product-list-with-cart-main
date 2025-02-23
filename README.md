@@ -4,7 +4,7 @@
 
 ## El desafío
 
-Tu desafío es **leer correctamente**. El desarrollar este proyecto de lista de productos que incluye un carrito funcional y lograr que se vea lo más parecido posible al diseño es bastante interesante.
+Tu desafío es **leer correctamente**, además desarrollar este proyecto de lista de productos que incluye un carrito funcional y lograr que se vea lo más parecido posible al diseño.
 
 Los datos de los productos están en un archivo local `data.json`. Puedes usarlo para poblar la interfaz de usuario dinámicamente si lo deseas.
 
