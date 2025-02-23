@@ -58,21 +58,13 @@ Una vez que hayas agregado tu información a la plantilla, elimina este archivo 
 - **Usa etiquetas semánticas**: Utiliza `header`, `nav`, `main`, `section`, `article`, `aside`, `footer` y otras etiquetas adecuadas para mejorar la accesibilidad y la estructura del documento.
 - **Mantén una estructura clara**: Organiza tu código HTML de manera lógica y jerárquica para facilitar la lectura y el mantenimiento.
 - **Añade atributos `alt` a las imágenes**: Es esencial para la accesibilidad y para que los motores de búsqueda comprendan el contenido de las imágenes.
-- **Evita el uso excesivo de `div`**: Utiliza contenedores solo cuando sean necesarios y prioriza elementos semánticos.
-- **Usa listas para contenido estructurado**: `ul` y `ol` son ideales para agrupar elementos relacionados.
-- **Agrupa formularios de manera accesible**: Utiliza `label` para cada `input` y agrupa campos relacionados con `fieldset` y `legend`.
+
 
 ### **Buenas prácticas de CSS**
 
 - **Sigue una metodología como BEM**: (Bloque, Elemento, Modificador) para una mejor organización y reutilización de estilos.
 - **Minimiza el uso de `!important`**: Puede dificultar la sobreescritura de estilos y hacer que el mantenimiento sea complicado.
 - **Usa variables CSS (`--var`)**: Facilita la gestión de colores, fuentes y tamaños en todo el proyecto.
-- **Optimiza imágenes y fuentes**: Usa formatos modernos como WebP y comprime imágenes para mejorar el rendimiento.
-- **Utiliza flexbox y grid**: Permiten crear diseños más flexibles y adaptables.
-- **Evita definir estilos en línea**: Usa hojas de estilo externas para mantener el código limpio y modular.
-- **Configura estilos responsivos con `media queries`**: Asegura que la interfaz se adapte a diferentes tamaños de pantalla.
-- **Aplica efectos visuales con `:hover`, `:focus` y `:active`**: Mejoran la experiencia del usuario y la accesibilidad.
-- **Usa `rem` y `em` en lugar de `px`**: Esto permite una mejor escalabilidad y accesibilidad en los tamaños de fuente.
 
 ## Recomendaciones de JavaScript
 
@@ -80,17 +72,6 @@ Una vez que hayas agregado tu información a la plantilla, elimina este archivo 
 2. **Manipulación eficiente del DOM:** Usa `document.querySelector()` y `document.getElementById()` en lugar de métodos más antiguos como `document.getElementsByClassName()`.
 3. **Eventos delegados:** En lugar de agregar múltiples `eventListener`, usa eventos en un elemento padre para mejorar el rendimiento.
 4. **Evita modificar el DOM en bucles:** Guarda cambios en variables y luego agréguelos al DOM en una sola operación.
-5. **Usa `async/await`:** Facilita el manejo de promesas y hace que el código sea más legible.
-6. **Valida entradas de usuario:** Usa validaciones tanto en frontend como en backend para mayor seguridad.
-7. **Reduce el uso de `innerHTML`:** Puede generar problemas de seguridad con `XSS`. Usa `textContent` o `createElement()` en su lugar.
-8. **Almacena datos en `localStorage` o `sessionStorage`:** Permite mantener datos de usuario sin necesidad de una base de datos.
-9. **Modulariza el código:** Usa funciones y módulos (`import/export`) para evitar código repetitivo y mejorar la mantenibilidad.
-10. **Errores y depuración:** Usa `console.log()`, `debugger`, y maneja errores con `try...catch`.
-11. **Optimización de rendimiento:** Evita cálculos costosos en cada `eventListener`, usa `debounce` y `throttle`.
-12. **Usa `fetch()` en lugar de `XMLHttpRequest`:** Es más moderno y fácil de manejar.
-13. **Evita dependencias innecesarias:** Usa librerías solo si realmente agregan valor y no inflan el proyecto.
-14. **Pruebas:** Escribe pruebas unitarias con `Jest` o `Mocha` para evitar errores en el código.
-15. **Accesibilidad:** Asegúrate de que los eventos sean accesibles, usa `keydown` además de `click` para mejorar la usabilidad.
 
 ## Recomendaciones Generales
 
