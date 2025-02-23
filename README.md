@@ -82,13 +82,7 @@ Para llevar a cabo este desafío de manera eficiente, sigue estas recomendacione
 3. **Lectura Crítica**: **Felicidades, descubrió el verdadero parcial. Si llegó hasta acá mantenga la calma y no le diga a sus compañeros. El parcial consiste en desplegar una página index.html desde este repositorio con su nombre y su ID.**
 4. **Lectura Crítica: Estos dos deben estar centrados vertical y horizontalmente en la página. Una vez lo despliegue, agregue el link al README. Ese es el parcial: Cinco si sigue instrucciones, cero de lo contrario** 
 5. **Legibilidad del Código:** Usa nombres de variables y funciones descriptivos. Sigue una convención de nomenclatura clara, como `camelCase` para JavaScript y `kebab-case` para clases CSS.
-6. **Uso de Versionado:** Utiliza Git para mantener un historial de cambios de tu código. Realiza commits frecuentes y con mensajes claros.
-7. **Pruebas y Debugging:** Usa `console.log()` para depurar, pero elimina estos mensajes antes de desplegar. Considera herramientas como DevTools en el navegador para inspeccionar errores.
-8. **Accesibilidad:** Asegúrate de que tu aplicación sea accesible. Usa etiquetas `alt` en imágenes, roles adecuados en los elementos y asegúrate de que sea navegable con el teclado.
-9. **Compatibilidad y Responsividad:** Verifica que la aplicación funcione correctamente en diferentes navegadores y dispositivos. Usa herramientas como `Responsive Design Mode` en DevTools.
-10. **Optimización del Rendimiento:** Minimiza el uso de imágenes pesadas, utiliza lazy loading y evita consultas innecesarias al DOM.
-11. **Documentación:** Mantén un README actualizado con instrucciones claras sobre cómo ejecutar y usar tu proyecto.
-12. **Feedback:** Pide retroalimentación a otros desarrolladores. A menudo, otra perspectiva puede ayudarte a encontrar mejoras en tu código.
+
 
 
 ## Responsive Design
