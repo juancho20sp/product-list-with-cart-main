@@ -26,7 +26,7 @@ Los diseños están en formato JPG estático. Al usar JPGs, necesitarás aplicar
 
 Todos los recursos necesarios para este proyecto están en la carpeta `/assets`. Las imágenes ya están exportadas en el tamaño de pantalla correcto y optimizadas.
 
-Hay una sección de recomendaciones HTML, CSS, JS y generales que le serán de gran ayuda en el desarrollo el examen.
+Hay una sección de recomendaciones HTML, CSS, JS y **generales** que le serán de gran ayuda en el desarrollo el examen.
 
 También hay un archivo `style-guide.md` que contiene la información que necesitarás, como la paleta de colores y las fuentes.
 
