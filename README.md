@@ -73,14 +73,14 @@ Una vez que hayas agregado tu información a la plantilla, elimina este archivo 
 3. **Eventos delegados:** En lugar de agregar múltiples `eventListener`, usa eventos en un elemento padre para mejorar el rendimiento.
 4. **Evita modificar el DOM en bucles:** Guarda cambios en variables y luego agréguelos al DOM en una sola operación.
 
-## Recomendaciones Generales
+## Recomendaciones Generales 👀‼️
 
 Para llevar a cabo este desafío de manera eficiente, sigue estas recomendaciones:
 
 1. **Planificación:** Antes de empezar a escribir código, revisa el diseño y planifica la estructura de la aplicación. Piensa en los componentes reutilizables y la organización de archivos.
 2. **Modularidad:** Divide tu código en funciones y módulos reutilizables. Esto facilitará el mantenimiento y escalabilidad del proyecto.
 3. **Lectura Crítica**: **Felicidades, descubrió el verdadero parcial. Si llegó hasta acá mantenga la calma y no le diga a sus compañeros. El parcial consiste en desplegar una página index.html desde este repositorio con su nombre y su ID.**
-4. **Lectura Crítica: Estos dos deben estar centrados vertical y horizontalmente en la página. Una vez lo despliegue, agregue el link al README. Ese es el parcial: Cinco si sigue instrucciones, cero de lo contrario** 
+4. **Lectura Crítica: Estos dos deben estar centrados vertical y horizontalmente en la página. Una vez lo despliegue, agregue el link al README. Ese es el parcial: Cinco si sigue instrucciones, cero de lo contrario.** 
 5. **Legibilidad del Código:** Usa nombres de variables y funciones descriptivos. Sigue una convención de nomenclatura clara, como `camelCase` para JavaScript y `kebab-case` para clases CSS.
 
 
