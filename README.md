@@ -50,5 +50,23 @@ La plantilla ofrece una guía sobre qué agregar. Un `README` personalizado te a
 
 Una vez que hayas agregado tu información a la plantilla, elimina este archivo y cambia el nombre del archivo `README-template.md` a `README.md`. Esto hará que aparezca como el archivo `README` de tu repositorio.
 
+## Responsive Design
+
+| Viewport            | Dimensiones (ancho x alto) |
+| ------------------- | -------------------------- |
+| **Mobile Portrait** | 320px x 480px              |
+| **Tablet Portrait** | 768px x 1024p              |
+| **Desktop**         | +1024px                    |
+
+## Rúbrica de evaluación
+
+| Aspecto                     | Puntuación |
+| --------------------------- | ---------- |
+| HTML   | 1       |
+| CSS | 1       |
+| JavaScript    | 1          |
+| Adaptabilidad del diseño (responsive)    | 1          |
+| Despliegue                  | 1          |
+
 
 **¡Diviértete construyendo!** 🚀
